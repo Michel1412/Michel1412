@@ -1,0 +1,82 @@
+name: commit-breaker
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Block Breaker · ciano (Linux)
+        uses: Michel1412/commit-craft@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          extension: block-breaker
+          out_dir: dist/ciano
+          theme: ciano
+
+      - name: Pac-Man · ciano (Linux)
+        uses: Michel1412/commit-craft@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          extension: pac-man
+          out_dir: dist/ciano
+          theme: ciano
+
+      - name: Block Breaker · minecraft
+        uses: Michel1412/commit-craft@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          extension: block-breaker
+          out_dir: dist/minecraft
+          theme: minecraft
+
+      - name: Pac-Man · minecraft
+        uses: Michel1412/commit-craft@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          extension: pac-man
+          out_dir: dist/minecraft
+          theme: minecraft
+
+      - name: Block Breaker · verde (WhatsApp / PlugLead)
+        uses: Michel1412/commit-craft@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          extension: block-breaker
+          out_dir: dist/verde
+          theme: verde
+
+      - name: Pac-Man · verde (WhatsApp / PlugLead)
+        uses: Michel1412/commit-craft@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          extension: pac-man
+          out_dir: dist/verde
+          theme: verde
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          if git diff --cached --quiet; then
+            echo "Sem mudanca visual"
+            exit 0
+          fi
+          git commit -m "chore: regenera os jogos dos commits anuais"
+          git push

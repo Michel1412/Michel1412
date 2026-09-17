@@ -1,0 +1,16 @@
+     ________________    michel@github
+   /################/|   -------------
+  /################/ |   OS: Engenharia de Software · formatura 2026
+ /################/  |   Host: Maringá, Paraná, Brasil
+/________________/   |   Kernel: Java · Node.js · Go · Spring Boot
+|::::::::::::::::|   |   Shell: Linux · Bash · kubectl
+|::::::::::::::::|   |   Uptime: 2+ anos em produção na PlugLead
+|::::::::::::::::|   |   Packages: Redis Streams · RabbitMQ · k8s
+|::::::::::::::::|   |   Payments: APIs de pagamento
+|::::::::::::::::|   |   Cloud: Railway (já usei em prod)
+|::::::::::::::::|   |   Item: Grass Block
+|::::::::::::::::|   |   WM: Minecraft · nick Chelzinho
+|::::::::::::::::|  /    Agent: Cursor (main-agent)
+|::::::::::::::::| /     Side quest: co-founder @RedeNerd
+|::::::::::::::::|/      Chat: WhatsApp Business API @ pluglead.com
+|________________|       Status: compiling the next commit
