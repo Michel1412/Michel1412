@@ -3,7 +3,7 @@
   <rect width="100%" height="100%" fill="#06140c"/>
   <rect x="10" y="32" width="805" height="115" rx="6" fill="#0b1f14" stroke="#166534" stroke-width="2"/>
   <text x="16" y="22" fill="#f0fdf4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">PAC-MAN · BUGS · VERDE</text>
-  <text x="809" y="22" text-anchor="end" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">141 commits · commits de Michel1412</text>
+  <text x="809" y="22" text-anchor="end" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">143 commits · commits de Michel1412</text>
   <g id="lives"><circle cx="24" cy="165" r="4" fill="#22c55e"/><circle cx="38" cy="165" r="4" fill="#22c55e"/><circle cx="52" cy="165" r="4" fill="#22c55e"/><circle cx="66" cy="165" r="4" fill="#22c55e"/><circle cx="80" cy="165" r="4" fill="#22c55e"/></g>
   <g id="calendar"><g>
         <rect x="16" y="38" width="13" height="13" rx="2" fill="#052e16"></rect>
@@ -1110,7 +1110,7 @@
         <rect x="796" y="83" width="13" height="13" rx="2" fill="#16a34a"></rect>
         
       </g><g>
-        <rect x="796" y="98" width="13" height="13" rx="2" fill="#15803d"></rect>
+        <rect x="796" y="98" width="13" height="13" rx="2" fill="#16a34a"></rect>
         
       </g></g>
   <g id="bugs"><g><g>
