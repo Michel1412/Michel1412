@@ -69,6 +69,22 @@ jobs:
           out_dir: dist/verde
           theme: verde
 
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true
+          path: dist/stats/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: dist/stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"

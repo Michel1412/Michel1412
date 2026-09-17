@@ -87,16 +87,8 @@ O gráfico de contribuições do último ano vira jogo. O GitHub **não deixa Ja
 ## `$ ./stats.sh`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Michel1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Michel1412&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michel1412&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="./dist/stats/github-stats.svg" height="170" alt="GitHub stats" />
+  <img src="./dist/stats/top-langs.svg" height="170" alt="Top languages" />
 </p>
 
 ---
