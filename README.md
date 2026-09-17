@@ -70,21 +70,17 @@ Fora do `crontab`: **Linux**, programação e **Minecraft** — sou co-founder d
 
 ## `$ ./commits --last-year --play`
 
-O gráfico de contribuições do último ano vira jogo. Sem JavaScript no README — a Action [Commit Breaker](https://github.com/marketplace/actions/commit-breaker) gera o SVG que joga sozinho. Clique para pegar o teclado.
+O gráfico de contribuições do último ano vira jogo. O GitHub **não deixa JavaScript no README**, então aqui o SVG joga sozinho — não tem como pegar o teclado nesta página.
 
 <p align="center">
-  <a href="https://Michel1412.github.io/Michel1412/dist/minecraft/block-breaker.html">
-    <img src="./dist/minecraft/block-breaker.svg" alt="Block Breaker dos commits anuais · tema Minecraft" />
-  </a>
+  <img src="./dist/minecraft/block-breaker.svg" alt="Block Breaker dos commits anuais · tema Minecraft" />
 </p>
 
 <p align="center">
-  <a href="https://Michel1412.github.io/Michel1412/dist/minecraft/pac-man.html">
-    <img src="./dist/minecraft/pac-man.svg" alt="Pac-Man dos commits anuais · tema Minecraft" />
-  </a>
+  <img src="./dist/minecraft/pac-man.svg" alt="Pac-Man dos commits anuais · tema Minecraft" />
 </p>
 
-<p align="center"><sub>tijolos = dias com commit · grass block no boot · tema <code>minecraft</code> no jogo · gerado por <a href="https://github.com/Michel1412/commit-craft">commit-craft</a></sub></p>
+<p align="center"><sub>tijolos = dias com commit · grass block no boot · tema <code>minecraft</code> · o automático joga no próprio perfil · gerado por <a href="https://github.com/Michel1412/commit-craft">commit-craft</a></sub></p>
 
 ---
 
