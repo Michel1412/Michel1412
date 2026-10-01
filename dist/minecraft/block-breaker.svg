@@ -16,7 +16,7 @@
   <rect width="100%" height="100%" fill="url(#court)"/>
   <rect x="8" y="8" width="809" height="351" fill="none" stroke="#5c4033" stroke-width="2" rx="6"/>
   <text x="16" y="24" fill="#e8f5e9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">BLOCK BREAKER · MINECRAFT · commits de Michel1412</text>
-  <text x="809" y="24" text-anchor="end" fill="#a3c9a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">136 commits</text>
+  <text x="809" y="24" text-anchor="end" fill="#a3c9a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">144 commits</text>
   <g id="bricks"><g>
         <rect x="46" y="70" width="13" height="13" rx="0" fill="#6b4f2a" stroke="#3e2a14" stroke-width="0.7"/>
         <rect x="48" y="73" width="2" height="2" fill="rgba(0,0,0,0.22)"/>
@@ -271,6 +271,11 @@
         <rect x="766" y="100" width="13" height="13" rx="0" fill="#8b8b8b" stroke="#3e2a14" stroke-width="0.7"/>
         <rect x="768" y="103" width="2" height="2" fill="rgba(0,0,0,0.22)"/>
         
+        
+      </g><g>
+        <rect x="796" y="85" width="13" height="13" rx="0" fill="#3aa3c2" stroke="#3e2a14" stroke-width="0.7"/>
+        <rect x="798" y="88" width="2" height="2" fill="rgba(0,0,0,0.22)"/>
+        <rect x="798" y="90.5" width="9" height="2" fill="#5d9c3f"/>
         
       </g></g>
   <g id="paddle">
