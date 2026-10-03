@@ -1115,6 +1115,9 @@
       </g><g>
         <rect x="796" y="113" width="13" height="13" rx="2" fill="#8b8b8b"><animate attributeName="fill" values="#8b8b8b;#8b8b8b;#2a1c12;#2a1c12" keyTimes="0;0.4296875;0.4397;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
         
+      </g><g>
+        <rect x="796" y="128" width="13" height="13" rx="2" fill="#2a1c12"></rect>
+        
       </g></g>
   <g id="bugs"><g><g>
     <line x1="-4.68" y1="-2" x2="-6.552" y2="-4" stroke="#3aa3c2" stroke-width="1"/>
