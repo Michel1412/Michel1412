@@ -3,7 +3,7 @@
   <rect width="100%" height="100%" fill="#0b1220"/>
   <rect x="10" y="32" width="805" height="115" rx="6" fill="#152318" stroke="#5c4033" stroke-width="2"/>
   <text x="16" y="22" fill="#e8f5e9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">PAC-MAN · BUGS · MINECRAFT</text>
-  <text x="809" y="22" text-anchor="end" fill="#a3c9a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">147 commits · commits de Michel1412</text>
+  <text x="809" y="22" text-anchor="end" fill="#a3c9a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">164 commits · commits de Michel1412</text>
   <g id="lives"><circle cx="24" cy="165" r="4" fill="#e53935"/><circle cx="38" cy="165" r="4" fill="#e53935"/><circle cx="52" cy="165" r="4" fill="#e53935"/><circle cx="66" cy="165" r="4" fill="#e53935"/><circle cx="80" cy="165" r="4" fill="#e53935"/></g>
   <g id="calendar"><g>
         <rect x="16" y="38" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -60,7 +60,7 @@
         <rect x="46" y="83" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="46" y="98" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
+        <rect x="46" y="98" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         <rect x="47" y="99" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
         <rect x="46" y="113" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
@@ -78,7 +78,7 @@
         <rect x="61" y="68" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="61" y="83" width="13" height="13" rx="2" fill="#3aa3c2"><animate attributeName="fill" values="#3aa3c2;#3aa3c2;#2a1c12;#2a1c12" keyTimes="0;0.8705357142857143;0.8805;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
+        <rect x="61" y="83" width="13" height="13" rx="2" fill="#8b8b8b"><animate attributeName="fill" values="#8b8b8b;#8b8b8b;#2a1c12;#2a1c12" keyTimes="0;0.8705357142857143;0.8805;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
         <rect x="62" y="84" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"><animate attributeName="stroke-opacity" values="1;1;0;0" keyTimes="0;0.8705357142857143;0.8805;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
       </g><g>
         <rect x="61" y="98" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -546,7 +546,7 @@
         <rect x="391" y="98" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="391" y="113" width="13" height="13" rx="2" fill="#5d9c3f"><animate attributeName="fill" values="#5d9c3f;#5d9c3f;#2a1c12;#2a1c12" keyTimes="0;0.703125;0.7131;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
+        <rect x="391" y="113" width="13" height="13" rx="2" fill="#8b8b8b"><animate attributeName="fill" values="#8b8b8b;#8b8b8b;#2a1c12;#2a1c12" keyTimes="0;0.703125;0.7131;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
         <rect x="392" y="114" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"><animate attributeName="stroke-opacity" values="1;1;0;0" keyTimes="0;0.703125;0.7131;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
       </g><g>
         <rect x="391" y="128" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -573,7 +573,7 @@
         <rect x="406" y="128" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="421" y="38" width="13" height="13" rx="2" fill="#5d9c3f"><animate attributeName="fill" values="#5d9c3f;#5d9c3f;#2a1c12;#2a1c12" keyTimes="0;0.15066964285714285;0.1607;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
+        <rect x="421" y="38" width="13" height="13" rx="2" fill="#8b8b8b"><animate attributeName="fill" values="#8b8b8b;#8b8b8b;#2a1c12;#2a1c12" keyTimes="0;0.15066964285714285;0.1607;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
         <rect x="422" y="39" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"><animate attributeName="stroke-opacity" values="1;1;0;0" keyTimes="0;0.15066964285714285;0.1607;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
       </g><g>
         <rect x="421" y="53" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -645,7 +645,7 @@
         <rect x="466" y="68" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="466" y="83" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="466" y="83" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
         <rect x="466" y="98" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
@@ -723,17 +723,17 @@
         <rect x="526" y="38" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="526" y="53" width="13" height="13" rx="2" fill="#5d9c3f"></rect>
+        <rect x="526" y="53" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         <rect x="527" y="54" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
-        <rect x="526" y="68" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
+        <rect x="526" y="68" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         <rect x="527" y="69" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
         <rect x="526" y="83" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
-        <rect x="526" y="98" width="13" height="13" rx="2" fill="#5d9c3f"></rect>
-        <rect x="527" y="99" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
+        <rect x="526" y="98" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        
       </g><g>
         <rect x="526" y="113" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
@@ -744,7 +744,7 @@
         <rect x="541" y="38" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="541" y="53" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="541" y="53" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
         <rect x="541" y="68" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -759,10 +759,10 @@
         <rect x="541" y="113" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
-        <rect x="541" y="128" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="541" y="128" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
-        <rect x="556" y="38" width="13" height="13" rx="2" fill="#8b8b8b"><animate attributeName="fill" values="#8b8b8b;#8b8b8b;#2a1c12;#2a1c12" keyTimes="0;0.20089285714285715;0.2109;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
+        <rect x="556" y="38" width="13" height="13" rx="2" fill="#6b4f2a"><animate attributeName="fill" values="#6b4f2a;#6b4f2a;#2a1c12;#2a1c12" keyTimes="0;0.20089285714285715;0.2109;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
         
       </g><g>
         <rect x="556" y="53" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -777,7 +777,7 @@
         <rect x="556" y="98" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="556" y="113" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
+        <rect x="556" y="113" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         <rect x="557" y="114" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
         <rect x="556" y="128" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -789,13 +789,13 @@
         <rect x="571" y="53" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="571" y="68" width="13" height="13" rx="2" fill="#5d9c3f"></rect>
+        <rect x="571" y="68" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         
       </g><g>
-        <rect x="571" y="83" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
+        <rect x="571" y="83" width="13" height="13" rx="2" fill="#5d9c3f"></rect>
         <rect x="572" y="84" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
-        <rect x="571" y="98" width="13" height="13" rx="2" fill="#5d9c3f"></rect>
+        <rect x="571" y="98" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         
       </g><g>
         <rect x="571" y="113" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -816,7 +816,7 @@
         <rect x="586" y="83" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="586" y="98" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="586" y="98" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
         <rect x="586" y="113" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -1044,10 +1044,10 @@
         <rect x="751" y="68" width="13" height="13" rx="2" fill="#6b4f2a"><animate attributeName="fill" values="#6b4f2a;#6b4f2a;#2a1c12;#2a1c12" keyTimes="0;0.3627232142857143;0.3727;1" dur="28s" repeatCount="indefinite" calcMode="linear"/></rect>
         
       </g><g>
-        <rect x="751" y="83" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="751" y="83" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
-        <rect x="751" y="98" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="751" y="98" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
         <rect x="751" y="113" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -1086,13 +1086,13 @@
         <rect x="781" y="68" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="781" y="83" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
+        <rect x="781" y="83" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         <rect x="782" y="84" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
         <rect x="781" y="98" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="781" y="113" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
+        <rect x="781" y="113" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g><g>
         <rect x="781" y="128" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -1107,7 +1107,10 @@
         <rect x="796" y="68" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g><g>
-        <rect x="796" y="83" width="13" height="13" rx="2" fill="#2a1c12"></rect>
+        <rect x="796" y="83" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
+        <rect x="797" y="84" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
+      </g><g>
+        <rect x="796" y="98" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
         
       </g></g>
   <g id="bugs"><g><g>
