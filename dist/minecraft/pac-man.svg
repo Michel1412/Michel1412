@@ -3,7 +3,7 @@
   <rect width="100%" height="100%" fill="#0b1220"/>
   <rect x="10" y="32" width="805" height="115" rx="6" fill="#152318" stroke="#5c4033" stroke-width="2"/>
   <text x="16" y="22" fill="#e8f5e9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">PAC-MAN · BUGS · MINECRAFT</text>
-  <text x="809" y="22" text-anchor="end" fill="#a3c9a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">164 commits · commits de Michel1412</text>
+  <text x="809" y="22" text-anchor="end" fill="#a3c9a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">173 commits · commits de Michel1412</text>
   <g id="lives"><circle cx="24" cy="165" r="4" fill="#e53935"/><circle cx="38" cy="165" r="4" fill="#e53935"/><circle cx="52" cy="165" r="4" fill="#e53935"/><circle cx="66" cy="165" r="4" fill="#e53935"/><circle cx="80" cy="165" r="4" fill="#e53935"/></g>
   <g id="calendar"><g>
         <rect x="16" y="38" width="13" height="13" rx="2" fill="#2a1c12"></rect>
@@ -724,7 +724,7 @@
         
       </g><g>
         <rect x="526" y="53" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
-        <rect x="527" y="54" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
+        
       </g><g>
         <rect x="526" y="68" width="13" height="13" rx="2" fill="#8b8b8b"></rect>
         <rect x="527" y="69" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
@@ -1110,7 +1110,10 @@
         <rect x="796" y="83" width="13" height="13" rx="2" fill="#3aa3c2"></rect>
         <rect x="797" y="84" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
       </g><g>
-        <rect x="796" y="98" width="13" height="13" rx="2" fill="#6b4f2a"></rect>
+        <rect x="796" y="98" width="13" height="13" rx="2" fill="#5d9c3f"></rect>
+        <rect x="797" y="99" width="11" height="11" rx="1.5" fill="none" stroke="#f4c430" stroke-width="1.4"></rect>
+      </g><g>
+        <rect x="796" y="113" width="13" height="13" rx="2" fill="#2a1c12"></rect>
         
       </g></g>
   <g id="bugs"><g><g>
