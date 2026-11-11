@@ -1104,7 +1104,10 @@
         <rect x="796" y="53" width="13" height="13" rx="2" fill="#15803d"></rect>
         
       </g><g>
-        <rect x="796" y="68" width="13" height="13" rx="2" fill="#052e16"></rect>
+        <rect x="796" y="68" width="13" height="13" rx="2" fill="#15803d"></rect>
+        
+      </g><g>
+        <rect x="796" y="83" width="13" height="13" rx="2" fill="#052e16"></rect>
         
       </g></g>
   <g id="bugs"><g><g>
